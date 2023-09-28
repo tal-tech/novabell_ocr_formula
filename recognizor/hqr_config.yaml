@@ -1,0 +1,13 @@
+---
+
+MODEL_PATH : "models/CRNN/"
+
+CHARSET_FILE : "/home/guoweiye/workspace/novabell_ocr_formula/pipe_utils/merge_char_list_v12"
+
+CHINESE_CHARSET_FILE : "pipe_utils/merge_char_list_v14_7"
+
+IMG_HEIGHT : 64
+
+NORMALIZATION : True
+
+MAX_BATCH_SIZE : 32
